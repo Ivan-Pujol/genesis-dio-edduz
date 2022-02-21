@@ -1,13 +1,14 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Projeto do bootcamp Edduz na dio 2022
 
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+Esse repositório é a entrega do projeto do bootcamp da Edduz e foi baseado no projeto da professora
+[Gabriela Spruce](https://github.com/SpruceGabriela/genesis-dio).
 
-### Os requisitos são:
+### As Adições foram:
 
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* Ajuste do brilho e do tempo em que fica aceso.
+* Adição de som no jogo.(Amostras de sons simples que existem no windows)
+* Adição do botão Start para iniciar o jogo.
  
 
 
-## 🚀 Let's code! 🚀
+## 🚀 Let's do it! 🚀
